@@ -137,7 +137,3 @@ Now — Building more environments!
 
 </div>
 ```
-
-**Step 7** — Scroll down, type commit message:
-```
-Add professional profile README
